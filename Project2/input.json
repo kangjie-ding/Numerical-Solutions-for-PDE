@@ -1,0 +1,11 @@
+{
+    "dimension":2,
+    "boundary_condition":"Dirichlet",
+    "restriction_operator":"full weighting",
+    "interpolation_operator":"linear",
+    "cycles":"V-cycle",
+    "stopping_criteria":{
+	"max_iteration":16,
+	"accuracy":10
+    }
+}
