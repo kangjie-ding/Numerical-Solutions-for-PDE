@@ -1,0 +1,7 @@
+{
+    "ODE_method":"Adams-Bashforth", //different types of method for solving the ODEs
+    "initial_value":1,   //there two choices in this problem,1 for the first case,2 for the second
+    "period":1,          //the period is related to the choice of initial_value
+    "steps":24000,        //to decide how many steps you'll go,which is also the interval number of the period
+    "order_of_accuracy_or_s-stage":1//for a LMM,Fehlberg embedded RK method or Dormand-Prince embedded method,you have to choose a number for the order of accuracy;for Gauss-Legendre RK method,you have to choose a stage number
+}

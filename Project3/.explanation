@@ -1,0 +1,2 @@
+This C++ package is designed to solve the given three-body system problem by different methods(such as Adams-Bashforth methods,
+Runge-Kutta methods and so on).
