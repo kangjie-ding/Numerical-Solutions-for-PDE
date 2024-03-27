@@ -1,0 +1,306 @@
+u1=exp(x*x+y*y):
+The norm of error with regular-Dirichlet with n=8
+1-norm:0.342781
+2-norm:0.0533144
+infinity-norm:0.0124016
+The norm of error with regular-Neumann with n=8
+1-norm:3.40052
+2-norm:0.420758
+infinity-norm:0.0851496
+The norm of error with regular-mixed with n=8
+1-norm:2.31201
+2-norm:0.277229
+infinity-norm:0.0546172
+The norm of error with irregular_Dirichlet with n=8
+1-norm:0.221029
+2-norm:0.0361637
+infinity-norm:0.0101006
+The norm of error with irregular_Neumann with n=8
+1-norm:1.6564
+2-norm:0.251122
+infinity-norm:0.0650421
+The norm of error with irregular_mixed with n=8
+1-norm:1.03131
+2-norm:0.166296
+infinity-norm:0.0451922
+//
+The norm of error with regular-Dirichlet with n=16
+1-norm:0.362631
+2-norm:0.0273039
+infinity-norm:0.00319873
+The norm of error with regular-Neumann with n=16
+1-norm:4.67978
+2-norm:0.290947
+infinity-norm:0.029003
+The norm of error with regular-mixed with n=16
+1-norm:4.36087
+2-norm:0.259878
+infinity-norm:0.0194594
+The norm of error with irregular_Dirichlet with n=16
+1-norm:0.235634
+2-norm:0.0182789
+infinity-norm:0.00254826
+The norm of error with irregular_Neumann with n=16
+1-norm:1.97978
+2-norm:0.147976
+infinity-norm:0.0207641
+The norm of error with irregular_mixed with n=16
+1-norm:1.26017
+2-norm:0.0949438
+infinity-norm:0.0140097
+//
+The norm of error with regular-Dirichlet with n=32
+1-norm:0.367875
+2-norm:0.0137313
+infinity-norm:0.000806364
+The norm of error with regular-Neumann with n=32
+1-norm:5.96936
+2-norm:0.187158
+infinity-norm:0.00900982
+The norm of error with regular-mixed with n=32
+1-norm:9.3997
+2-norm:0.289577
+infinity-norm:0.0120909
+The norm of error with irregular_Dirichlet with n=32
+1-norm:0.236166
+2-norm:0.00908101
+infinity-norm:0.000637012
+The norm of error with irregular_Neumann with n=32
+1-norm:2.15444
+2-norm:0.0811403
+infinity-norm:0.00603036
+The norm of error with irregular_mixed with n=32
+1-norm:1.4001
+2-norm:0.0516561
+infinity-norm:0.00398965
+//
+The norm of error with regular-Dirichlet with n=64
+1-norm:0.369209
+2-norm:0.00687551
+infinity-norm:0.000202041
+The norm of error with regular-Neumann with n=64
+1-norm:7.30167
+2-norm:0.115022
+infinity-norm:0.002675
+The norm of error with regular-mixed with n=64
+1-norm:50.3032
+2-norm:0.805093
+infinity-norm:0.018872
+The norm of error with irregular_Dirichlet with n=64
+1-norm:0.23634
+2-norm:0.00452667
+infinity-norm:0.000158921
+The norm of error with irregular_Neumann with n=64
+1-norm:2.33468
+2-norm:0.0440032
+infinity-norm:0.00168517
+The norm of error with irregular_mixed with n=64
+1-norm:1.5487
+2-norm:0.0280176
+infinity-norm:0.00109785
+
+u2=exp(sinx+y):
+The norm of error with regular-Dirichlet with n=8
+1-norm:0.0144239
+2-norm:0.00227258
+infinity-norm:0.000536981
+The norm of error with regular-Neumann with n=8
+1-norm:0.158384
+2-norm:0.0228904
+infinity-norm:0.00649295
+The norm of error with regular-mixed with n=8
+1-norm:0.156567
+2-norm:0.0216618
+infinity-norm:0.00522442
+The norm of error with irregular_Dirichlet with n=8
+1-norm:0.00851826
+2-norm:0.00135515
+infinity-norm:0.000433533
+The norm of error with irregular_Neumann with n=8
+1-norm:0.143675
+2-norm:0.0208581
+infinity-norm:0.0059038
+The norm of error with irregular_mixed with n=8
+1-norm:0.13236
+2-norm:0.0184262
+infinity-norm:0.00462786
+//
+The norm of error with regular-Dirichlet with n=16
+1-norm:0.0148147
+2-norm:0.00114148
+infinity-norm:0.000137595
+The norm of error with regular-Neumann with n=16
+1-norm:0.165504
+2-norm:0.0123621
+infinity-norm:0.00182439
+The norm of error with regular-mixed with n=16
+1-norm:0.21347
+2-norm:0.0150162
+infinity-norm:0.00170592
+The norm of error with irregular_Dirichlet with n=16
+1-norm:0.00861429
+2-norm:0.000648256
+infinity-norm:7.87484e-05
+The norm of error with irregular_Neumann with n=16
+1-norm:0.14374
+2-norm:0.0107393
+infinity-norm:0.00160468
+The norm of error with irregular_mixed with n=16
+1-norm:0.135876
+2-norm:0.00977411
+infinity-norm:0.00125668
+//
+The norm of error with regular-Dirichlet with n=32
+1-norm:0.0149136
+2-norm:0.00057136
+infinity-norm:3.44502e-05
+The norm of error with regular-Neumann with n=32
+1-norm:0.181419
+2-norm:0.00687878
+infinity-norm:0.00050302
+The norm of error with regular-mixed with n=32
+1-norm:0.437187
+2-norm:0.0145108
+infinity-norm:0.000760806
+The norm of error with irregular_Dirichlet with n=32
+1-norm:0.00848979
+2-norm:0.000318108
+infinity-norm:1.95049e-05
+The norm of error with irregular_Neumann with n=32
+1-norm:0.142747
+2-norm:0.00546336
+infinity-norm:0.000418531
+The norm of error with irregular_mixed with n=32
+1-norm:0.137325
+2-norm:0.00507414
+infinity-norm:0.000330236
+//
+The norm of error with regular-Dirichlet with n=64
+1-norm:0.0149385
+2-norm:0.000285757
+infinity-norm:8.62414e-06
+The norm of error with regular-Neumann with n=64
+1-norm:0.203709
+2-norm:0.0038629
+infinity-norm:0.0001369
+The norm of error with regular-mixed with n=64
+1-norm:2.41876
+2-norm:0.0389838
+infinity-norm:0.000947648
+The norm of error with irregular_Dirichlet with n=64
+1-norm:0.00844484
+2-norm:0.000159026
+infinity-norm:5.00708e-06
+The norm of error with irregular_Dirichlet with n=64
+1-norm:0.23634
+2-norm:0.00452667
+infinity-norm:0.000158921
+The norm of error with irregular_Neumann with n=64
+1-norm:0.145143
+2-norm:0.00281399
+infinity-norm:0.000108399
+The norm of error with irregular_mixed with n=64
+1-norm:0.142111
+2-norm:0.00266489
+infinity-norm:8.97769e-05
+
+u3=exp(x+y):
+The norm of error with regular-Dirichlet with n=8
+1-norm:0.0159027
+2-norm:0.00243836
+infinity-norm:0.000544055
+The norm of error with regular-Neumann with n=8
+1-norm:0.153182
+2-norm:0.0229972
+infinity-norm:0.0057232
+The norm of error with regular-mixed with n=8
+1-norm:0.204708
+2-norm:0.0279094
+infinity-norm:0.00593397
+The norm of error with irregular_Dirichlet with n=8
+1-norm:0.00987318
+2-norm:0.00161795
+infinity-norm:0.000431976
+The norm of error with irregular_Neumann with n=8
+1-norm:0.127453
+2-norm:0.0186436
+infinity-norm:0.00492691
+The norm of error with irregular_mixed with n=8
+1-norm:0.131904
+2-norm:0.0175435
+infinity-norm:0.00343971
+//
+The norm of error with regular-Dirichlet with n=16
+1-norm:0.016551
+2-norm:0.00123379
+infinity-norm:0.000139955
+The norm of error with regular-Neumann with n=16
+1-norm:0.182036
+2-norm:0.0139113
+infinity-norm:0.00181189
+The norm of error with regular-mixed with n=16
+1-norm:0.311417
+2-norm:0.0219128
+infinity-norm:0.00239834
+The norm of error with irregular_Dirichlet with n=16
+1-norm:0.0102337
+2-norm:0.000754489
+infinity-norm:9.18198e-05
+The norm of error with irregular_Neumann with n=16
+1-norm:0.131004
+2-norm:0.0102151
+infinity-norm:0.00150651
+The norm of error with irregular_mixed with n=16
+1-norm:0.138714
+2-norm:0.00974206
+infinity-norm:0.00108311
+//
+The norm of error with regular-Dirichlet with n=32
+1-norm:0.0167188
+2-norm:0.000618683
+infinity-norm:3.50853e-05
+The norm of error with regular-Neumann with n=32
+1-norm:0.223954
+2-norm:0.00830346
+infinity-norm:0.00053674
+The norm of error with regular-mixed with n=32
+1-norm:0.652514
+2-norm:0.0223152
+infinity-norm:0.001178
+The norm of error with irregular_Dirichlet with n=32
+1-norm:0.0101662
+2-norm:0.000371715
+infinity-norm:2.26183e-05
+The norm of error with irregular_Neumann with n=32
+1-norm:0.132299
+2-norm:0.00537443
+infinity-norm:0.00042591
+The norm of error with irregular_mixed with n=32
+1-norm:0.143081
+2-norm:0.00521579
+infinity-norm:0.000313606
+//
+The norm of error with regular-Dirichlet with n=64
+1-norm:0.0167612
+2-norm:0.000309564
+infinity-norm:8.78561e-06
+The norm of error with regular-Neumann with n=64
+1-norm:0.272652
+2-norm:0.00487665
+infinity-norm:0.0001536
+The norm of error with regular-mixed with n=64
+1-norm:3.67216
+2-norm:0.0599084
+infinity-norm:0.00147232
+The norm of error with irregular_Dirichlet with n=64
+1-norm:0.0101435
+2-norm:0.000183846
+infinity-norm:5.51811e-06
+The norm of error with irregular_Neumann with n=64
+1-norm:0.136123
+2-norm:0.00282907
+infinity-norm:0.000116904
+The norm of error with irregular_mixed with n=64
+1-norm:0.151424
+2-norm:0.00282667
+infinity-norm:8.98531e-05

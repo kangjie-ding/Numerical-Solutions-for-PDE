@@ -1,0 +1,12 @@
+{
+    "problem_domain":["regular","irregular"],
+    "boundary_condition":["Dirichlet","Neumann","mixed"],
+    "parameters_mixed":{
+	"alpha":1,
+	"beta":1
+    },
+    "disk":{
+	"center":[0.5,0.5],
+	"radius":0.05
+    }
+}
